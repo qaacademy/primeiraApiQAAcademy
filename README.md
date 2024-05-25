@@ -5,7 +5,7 @@ Este é um projeto de demonstração para o Spring Boot. Ele foi criado para ilu
 
 ## Pré-requisitos
 
-- Java 1.8
+- Java 11
 - Maven
 
 ## Como executar
